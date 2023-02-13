@@ -1,2 +1,2 @@
-#!/bash/bin
+#!/bin/bash
 find . -type d -name -not '.'  | wc -l	
